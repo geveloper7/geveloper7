@@ -20,7 +20,7 @@
 
 Si deseas conocer más sobre mis proyectos o colaborar en algo interesante, ¡no dudes en contactarme!
 
-- **Email**: [gefferson.casasola@gmail.com](mailto:gefferson.casasola@gmail.com)
+- **Email**: [casasola.uni@outlook.com](mailto:casasola.uni@outlook.com)
 - **LinkedIn**: [linkedin.com/in/gefferson-casasola](https://linkedin.com/in/gefferson-casasola)
 
 ¡Gracias por visitar mi repositorio!
